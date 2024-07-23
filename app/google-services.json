@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971646598270",
+    "project_id": "test-35f31",
+    "storage_bucket": "test-35f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971646598270:android:07a4a14ffef923f630ac2f",
+        "android_client_info": {
+          "package_name": "com.pluartz.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyfavmeHsyhyzuCl8zH52jy8Hj-ztMNAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
